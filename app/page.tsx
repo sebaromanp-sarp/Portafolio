@@ -364,11 +364,11 @@ export default function Home() {
           </h2>
           <div className="mt-8 flex flex-wrap gap-4">
             <a
-              href="mailto:hola@sarp.cl"
+              href="mailto:seba.romanp@gmail.com"
               className="inline-flex items-center gap-2 rounded-full bg-rust px-6 py-3 text-sm font-medium text-paper transition hover:bg-rust-dark"
             >
               <Mail className="h-4 w-4" />
-              hola@sarp.cl
+              seba.romanp@gmail.com
             </a>
             <a
               href="https://wa.me/56900000000"
